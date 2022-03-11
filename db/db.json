@@ -6,7 +6,7 @@
          "name": "Oscar Wilde",
          "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -16,7 +16,7 @@
          "name": "Julian Barnes",
          "picUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrxFBFaU0QiLAvLKDip1J7uAc1FWlb5xMIdw&usqp=CAU"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -25,7 +25,7 @@
       "by": {
          "name": "Ron Hall"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -34,14 +34,14 @@
       "by": {
          "name": "Steven Tyler"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
       "id": 5,
       "quote": "My life was a sort of series of random disasters.",
       "by": "Claire Tomalin",
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -50,7 +50,7 @@
       "by": {
          "name": "Rose Kennedy"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -59,7 +59,7 @@
       "by": {
          "name": "Henry Kissinger"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -68,7 +68,7 @@
       "by": {
          "name": "Hope Hicks"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -77,7 +77,7 @@
       "by": {
          "name": "A. P. J. Abdul Kalam"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
    },
    {
@@ -86,7 +86,207 @@
       "by": {
          "name": "George Herbert"
       },
-      "rating": 0.0,
+      "rating": 0,
       "ratersCount": 0
+   },
+   {
+      "quote": "Man is least himself when he talks in his own person. Give him a mask, and he will tell the truth.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 11
+   },
+   {
+      "quote": "I can resist everything except temptation.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 12
+   },
+   {
+      "quote": "A man's face is his autobiography. A woman's face is her work of fiction.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 13
+   },
+   {
+      "quote": "True friends stab you in the front.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 14
+   },
+   {
+      "quote": "Always forgive your enemies; nothing annoys them so much.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 15
+   },
+   {
+      "quote": "Anyone who lives within their means suffers from a lack of imagination.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 16
+   },
+   {
+      "quote": "Everything in moderation, including moderation.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 17
+   },
+   {
+      "quote": "Art is the most intense mode of individualism that the world has known.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 18
+   },
+   {
+      "quote": "You don't love someone for their looks, or their clothes or their fancy car, but because they sing a song only you can hear.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 19
+   },
+   {
+      "quote": "I am not young enough to know everything.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 20
+   },
+   {
+      "quote": "The only difference between the saint and the sinner is that every saint has a past, and every sinner has a future.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 21
+   },
+   {
+      "quote": "I have the simplest of tastes. I am always satisfied with the best.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 22
+   },
+   {
+      "quote": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 23
+   },
+   {
+      "quote": "To love oneself is the beginning of a lifelong romance.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 24
+   },
+   {
+      "quote": "Be yourself; everyone else is already taken.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 25
+   },
+   {
+      "quote": "There is only one thing in the world worse than being talked about, and that is not being talked about.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 26
+   },
+   {
+      "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 27
+   },
+   {
+      "quote": "I can never travel without my diary, one should always have something sensational to read on the train.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 28
+   },
+   {
+      "quote": "You can never be overdressed or overeducated.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 29
+   },
+   {
+      "quote": "The truth is rarely pure and never simple.",
+      "by": {
+         "name": "Oscar Wilde",
+         "picUrl": "https://cdn.britannica.com/21/94621-050-58D29508/Oscar-Wilde-1882.jpg?w=400&h=300&c=crop"
+      },
+      "rating": 0,
+      "ratersCount": 0,
+      "id": 30
    }
 ]
